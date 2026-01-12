@@ -3,7 +3,7 @@
   "symbol": "JOD",
   "type": "BEP20",
   "decimals": 18,
-  "website": "https://your-website.com",
+  "website": "",
   "description": "JOD means generosity and free giving in ancient Arabic culture. A community-driven utility token.",
   "explorer": "https://bscscan.com/token/0x7acc5acf4bf21419bc7364e0d4aef77c2eadf2e8",
   "status": "active",
